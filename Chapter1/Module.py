@@ -1,4 +1,4 @@
-import jokes
-Jokes=pyjokes.get_joke()
-print(Jokes)
-# ) Jokes
+import pyjokes
+
+jokes=pyjokes.get_joke()
+print(jokes)
