@@ -18,6 +18,7 @@ And often thro' my curtains peep,
 For you never shut your eye,
 Till the sun is in the sky.
 
+      
 'Tis your bright and tiny spark,
 Lights the trav'ller in the dark:
 Tho' I know not what you are,
