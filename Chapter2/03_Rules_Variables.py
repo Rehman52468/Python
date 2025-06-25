@@ -11,3 +11,5 @@ _waqas=675787 #_waqas is a correct variable name
 Waqas786=775 #Waqas786 is a correct variable name
 
 #Waqas@786=5433245 # Waqas@786 is not a correct variable name 
+
+Rahman_Ullah=555  # Rahman_Ullah is a correct variable name
