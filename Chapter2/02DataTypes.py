@@ -1,4 +1,4 @@
-a=10  # a is and integer
+a=10  # a is an integer 
 
 b=100.50  # b is a floating point numbers
 
