@@ -3,20 +3,29 @@ A = 34
 B = 80
 print(A <= B)
 
-# In this program i will use truth table of "and".
+# This is the better way to write a program. The upper program is simple  
+A = input("Enter Number 1: ")
+B = input("Enter Number 2: ")
+print("A is less than B:",A>B)
 
-X = 50
-Z = 15
-print(X >= Z and X <= Z )
+# I used truth table of "or" in this program.
 
-# In this program i will use truth table of "or".
+A = input("Enter Number 1: ")
+B = input("Enter Number 2: ")
+print("A is less than B true or false:",A>B or A<B)
 
-a = 90
-b = 75
-print(a <= b or a >=b )
+# # I used truth table of "and" in this program.
 
-# In this program i will use truth table of "not".
+A = input("Enter Number 1: ")
+B = input("Enter Number 2: ")
+print("A is greater than B true and false:",A>B and A<B)
 
-R = 57
-X = 75
-print(not (R >= X) )
+
+# I used truth table of "not" in this program.
+
+A = input("Enter Number 1: ")
+B = input("Enter Number 2: ")
+print("A is greater than B true not false:",not A>B)
+
+
+
