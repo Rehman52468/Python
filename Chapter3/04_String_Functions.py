@@ -1,6 +1,5 @@
-Name = "Rahman, ullah, 1234567"
+Name = "Rahman ullah 1234567"
 
-Names = "12345abz"
 
 # Basic String Functions.
 
