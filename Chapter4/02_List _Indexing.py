@@ -1,5 +1,5 @@
-# 2 types of Indexing Method.
-# Normal indexing Method.
+# 2 Types of List Indexing.
+# Normal List Indexing.
 
 List1 = ["Farhan", "Asim", "Rahman", "Tariq" ,"Nasir", 7, 15, 10 ,55.7 ,100 ,True]
 
@@ -7,7 +7,7 @@ List2 =List1 [0:6]
 
 print(List2)
 
-# Tricky indexing Method
+# Tricky List Indexing.
 
 List1 = ["Farhan", "Asim", "Rahman", "Tariq" ,"Nasir", 7, 15, 10 ,55.7 ,100 ,True]
 
