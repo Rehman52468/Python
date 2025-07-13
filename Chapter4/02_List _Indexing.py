@@ -1,3 +1,4 @@
+# 2 types of Indexing Method.
 # Normal indexing Method.
 
 List1 = ["Farhan", "Asim", "Rahman", "Tariq" ,"Nasir", 7, 15, 10 ,55.7 ,100 ,True]
