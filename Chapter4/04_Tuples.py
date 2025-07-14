@@ -1,5 +1,5 @@
 # Tuples.
-        #  Tuples are immutable like Strings no one can add or remove anything in the tuples.
+        #  A tuple is like a list, but it's unchangeable (you can't add, remove, or change items). It’s written using round brackets ().
 
 Tuple = (10, 15, "Farhan", "Nasir", "Tariq")
 
