@@ -27,7 +27,7 @@ L1 = List.pop(3)
 
 print(L1)
 
-# List.remove(99)
+List.remove(5)
 
 print(List)
 
@@ -46,3 +46,7 @@ List.sort(reverse=True)
 print(List)
 
 print(len(List))
+
+Slicing = List.index(125)
+
+print(Slicing)
