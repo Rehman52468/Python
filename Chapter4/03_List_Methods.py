@@ -27,15 +27,13 @@ L1 = List.pop(3)
 
 print(L1)
 
-List.remove(99)
+# List.remove(99)
 
 print(List)
 
 List.clear()
 
 print(List)
-
-List.index(3)
 
 print(List)
 
@@ -46,3 +44,5 @@ print(List)
 List.sort(reverse=True)
 
 print(List)
+
+print(len(List))
